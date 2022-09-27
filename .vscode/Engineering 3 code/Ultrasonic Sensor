@@ -1,0 +1,42 @@
+import board
+import adafruit_hcsr04
+import neopixel
+import time
+
+sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D7, echo_pin=board.D6)
+klee = neopixel.NeoPixel(board.NEOPIXEL, 1)
+klee.brightness = .3  
+
+while True:
+    try:
+        cm = sonar.distance
+        print((sonar.distance))
+        time.sleep(0.5)
+        if cm < 5:
+            klee.fill((255, 0, 0))
+        if cm > 5 and cm < 8:
+          klee.fill((255, 0, 127.5))
+        if cm > 8 and cm < 11:
+           klee.fill((255, 0, 255))
+        if cm > 11 and cm < 14:
+            klee.fill((127.5, 0, 255))
+        if cm > 14 and cm < 17:
+             klee.fill((50, 0, 255))
+
+        if cm > 17 and cm < 20:
+            klee.fill((0, 0, 255))
+        if cm > 20 and cm < 23:
+            klee.fill((0, 127.5, 255))
+        if cm > 23 and cm < 26:
+            klee.fill((0, 255, 255))
+        if cm > 26 and cm < 29:
+             klee.fill((0, 255,200))
+        if cm > 29 and cm < 32:
+            klee.fill((0, 255, 125))
+        if cm > 32 and cm < 35:
+             klee.fill((0, 255, 50))
+        if cm > 35:
+             klee.fill((0, 255, 0))
+    except RuntimeError:
+        print("Retrying!")
+    time.sleep(0.1)
