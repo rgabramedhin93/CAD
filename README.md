@@ -37,7 +37,6 @@ while True:
 
 
 
-
 Image credit goes to [Kaz S](https://github.com/kshinoz98/CircuitPython#Hello_CircuitPython)
 
 
