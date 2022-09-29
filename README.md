@@ -11,7 +11,7 @@ This repository will actually serve as a aid to help you get started with your o
 ## Hello_CircuitPython
 
 ### Description & Code
-Description goes here
+First of all, I imported all my libraries. Then, I used the code given to me by mr.helmstetter. Next, I added on the code to make it change color after half a second. 
 
 
 
