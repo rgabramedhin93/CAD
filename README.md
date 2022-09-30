@@ -80,7 +80,7 @@ while True:
 
 Image credit goes to [Elias G](https://github.com/egarcia28/CircuitPython#evidence)
 ### Wiring!
-[192807559-d1add3fb-849b-4811-b61a-297383081065](https://user-images.githubusercontent.com/112961430/193279935-20da45e1-807a-4585-bdf1-f059e2371185.png)
+![193279935-20da45e1-807a-4585-bdf1-f059e2371185](https://user-images.githubusercontent.com/112961430/193280272-701fa51d-ea67-4ab9-994e-ea3d98bdfe4a.png)
 
 Image credit goes to [Elias G](https://github.com/egarcia28/CircuitPython#wiring)
 ### Reflection
