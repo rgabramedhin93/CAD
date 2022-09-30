@@ -79,8 +79,10 @@ while True:
 ![192808365-425dc20f-adb3-4a49-96a3-89f3e8195865](https://user-images.githubusercontent.com/112961430/193279528-e7ac47fa-6eab-4d70-bdb7-e64ca753205b.gif)
 
 Image credit goes to [Elias G](https://github.com/egarcia28/CircuitPython#evidence)
-### Wiring
+### Wiring!
+[192807559-d1add3fb-849b-4811-b61a-297383081065](https://user-images.githubusercontent.com/112961430/193279935-20da45e1-807a-4585-bdf1-f059e2371185.png)
 
+Image credit goes to [Elias G](https://github.com/egarcia28/CircuitPython#wiring)
 ### Reflection
 
 
