@@ -84,7 +84,7 @@ Image credit goes to [Elias G](https://github.com/egarcia28/CircuitPython#eviden
 
 Image credit goes to [Elias G](https://github.com/egarcia28/CircuitPython#wiring)
 ### Reflection
-
+This assignment's wiring was pretty easy, because there was no extra wires needed. I got most of my code from [Grant G](https://github.com/ggastin30/CPython#description--code-1)
 
 
 
@@ -101,6 +101,7 @@ Code goes here
 
 ![ezgif-2 (1)](https://user-images.githubusercontent.com/112961430/193049640-d5c38adf-456b-498e-aed0-5d23ada84e12.gif)
 
+Image credit goes to [Kaz S](https://github.com/kshinoz98/CircuitPython#evidence-2)
 ### Wiring
 
 ### Reflection
