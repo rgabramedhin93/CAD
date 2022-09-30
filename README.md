@@ -96,8 +96,8 @@ This assignment's wiring was pretty easy, because there was no extra wires neede
 import board
 import math
 import time
-from lcd.lcd import LCD                                     #[4-14] code to connect 
-from lcd.i2c_pcf8574_interface import I2CPCF8574Interface   #input pins to board
+from lcd.lcd import LCD                                     
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface   
 from digitalio import DigitalInOut, Direction, Pull
 i2c = board.I2C()
 lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16)
@@ -107,13 +107,13 @@ btn.direction = Direction.INPUT
 btn2.direction = Direction.INPUT
 btn.pull = Pull.UP
 btn2.pull = Pull.UP
-num = 0                         #Display Variable
-Redo = True                     #[16-17] Variable to "debounce" button
+num = 0                     
+Redo = True                   
 
 lcd.print("Starting")
-while True:                                 #[19-30] Code to add and subtract 
-    if btn.value == True and Redo == True:  #from variable and 
-        if btn2.value == True:              #"debounce" the  #buttons.         
+while True:                                 
+    if btn.value == True and Redo == True:   
+        if btn2.value == True:                     
             num = num - 1
         else:
             num = num + 1                                   
@@ -125,14 +125,16 @@ while True:                                 #[19-30] Code to add and subtract
         Redo = True
 
 ```
-
+Most of code 
 ### Evidence
 
 ![ezgif-2 (1)](https://user-images.githubusercontent.com/112961430/193049640-d5c38adf-456b-498e-aed0-5d23ada84e12.gif)
 
 Image credit goes to [Kaz S](https://github.com/kshinoz98/CircuitPython#evidence-2)
 ### Wiring
+![Screenshot 2022-09-27 144318](https://user-images.githubusercontent.com/112961430/193284020-f79d8161-2984-4a45-8ada-ca9f64faefc4.png)
 
+Image credit goes to [Kaz S](https://github.com/kshinoz98/CircuitPython#wiring-1)
 ### Reflection
 
 
