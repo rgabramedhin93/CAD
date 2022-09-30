@@ -76,8 +76,8 @@ while True:
 ```
 
 ### Evidence
-https://user-images.githubusercontent.com/112961430/193278950-51953d47-fbc0-4b3e-a2e5-9c9fd195b56e.mp4
-Image credit goes to [Dylan H](https://github.com/dhalber11/CircuitPython#evidence-1)
+![192808365-425dc20f-adb3-4a49-96a3-89f3e8195865](https://user-images.githubusercontent.com/112961430/193279528-e7ac47fa-6eab-4d70-bdb7-e64ca753205b.gif)
+Image credit goes to [Elias G](https://github.com/egarcia28/CircuitPython#evidence)
 ### Wiring
 
 ### Reflection
