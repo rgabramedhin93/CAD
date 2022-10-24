@@ -93,7 +93,42 @@ This assignment's wiring was pretty easy, because there was no extra wires neede
 ### Description & Code
 
 ```python
-Code goes here
+import board
+import adafruit_hcsr04
+import neopixel
+import time
+import simpleio
+
+sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D7, echo_pin=board.D6)
+klee = neopixel.NeoPixel(board.NEOPIXEL, 1)
+klee.brightness = .3  
+red=0
+blue=0
+green=0
+while True:
+    try:
+        cm = sonar.distance
+        print((sonar.distance))
+        time.sleep(0.01)
+        if cm < 5:
+            klee.fill((255, 0, 0))
+        if cm > 5 and cm <20:
+         red=simpleio.map_range(cm,5,20,255,0)
+         green=0
+         blue=simpleio.map_range(cm,5,20,0,255)
+         klee.fill((red,green,blue))
+      
+       
+        if cm > 20 and cm < 35:
+         red=0
+         green=simpleio.map_range(cm,5,20,0,255)
+         blue=simpleio.map_range(cm,5,20,0,255)
+         klee.fill((green,blue,red))
+    except RuntimeError:
+        print("Retrying!")
+        pass
+
+    time.sleep(0.1)
 
 ```
 
