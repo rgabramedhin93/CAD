@@ -154,3 +154,4 @@ Image credit goes to [Kaz S](https://github.com/kshinoz98/CircuitPython#evidence
 
 Image credit goes to [Kaz S](https://github.com/kshinoz98/CircuitPython#wiring-1)
 ### Reflection
+This assignment was challenging for me, because of the time it took to map the sensor. It also took a while to make the led work with the buttons. This assignment was good, because it taught me how to count down with another button, which I have never done before. The last part I struggled with, was finding the right amount of time between each button push. If the time was too short, then the numbers would go up twice when I pressed once. But if the time was too long, then the next time I pressed the button, the button wouldn't be registered. 
