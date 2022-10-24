@@ -139,7 +139,7 @@ https://user-images.githubusercontent.com/112961430/197537552-06cd7599-9af8-4e84
 ![193045742-26a5ac02-6881-416c-9d54-af293deceae0](https://user-images.githubusercontent.com/112961430/197537630-7a8b370f-e29f-4c5f-ad99-c78c346eddf5.png)
 Image credit goes to [Elias G](https://github.com/egarcia28/CircuitPython#wiring-2)
 ### Reflection
-
+This assignment was good, because it relied more on the code than the wiring. The hardest part was finding the values to put in for the colors, and when the colors would change. I also learned that it's really hard to input each value into a code, than make a code that runs through all the values instead. 
 
 
 
