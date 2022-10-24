@@ -133,9 +133,11 @@ while True:
 ```
 
 ### Evidence
+https://user-images.githubusercontent.com/112961430/197537552-06cd7599-9af8-4e84-b464-2d35bc7e5d57.mp4
 
 ### Wiring
-
+![193045742-26a5ac02-6881-416c-9d54-af293deceae0](https://user-images.githubusercontent.com/112961430/197537630-7a8b370f-e29f-4c5f-ad99-c78c346eddf5.png)
+Image credit goes to [Elias G](https://github.com/egarcia28/CircuitPython#wiring-2)
 ### Reflection
 
 
