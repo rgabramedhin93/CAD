@@ -88,7 +88,7 @@ Image credit goes to [Elias G](https://github.com/egarcia28/CircuitPython#wiring
 This assignment's wiring was pretty easy, because there was no extra wires needed. I got help with my code from [Grant G](https://github.com/ggastin30/CPython#description--code-1)
 
 
-##CircuitPython_DistanceSensor 
+## CircuitPython_DistanceSensor 
 
 ### Description & Code
 
