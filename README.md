@@ -27,7 +27,7 @@ This assignment was a kind of hard, because we had to fillet a lot of sides of t
 ## Pull_Copter
 
 ### Description & Pictures
-For this assignment, we were tasked to create different parts of a propeller to make a pull copter 
+For this assignment, we were tasked to create different parts of a propeller to make a pull copter. Pull copter with section view
 ![197535259-7f95866b-a796-4434-a3d5-1f2cebb3d292](https://user-images.githubusercontent.com/112961430/197783905-d0e52904-5f2f-4202-aacd-3523325ee29f.png)
 ![197535314-e7f6cf5d-44ba-4a0c-ae36-f1961ee4a87e](https://user-images.githubusercontent.com/112961430/197783913-c913b9c7-a189-4aef-ac80-d807a8cf39b1.png)
 Image credit goes to [Grant G](https://github.com/ggastin30/Intermediate_CAD#description-and-images)
