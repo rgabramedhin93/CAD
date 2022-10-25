@@ -34,55 +34,38 @@ https://cvilleschools.onshape.com/documents/23a0e7b8260251b4180fe0e5/w/4270abba5
 ### 4.1
 
 #### Pictures
-For this assignment, we were tasked to create different parts of a pull copter.
-![197535259-7f95866b-a796-4434-a3d5-1f2cebb3d292](https://user-images.githubusercontent.com/112961430/197783905-d0e52904-5f2f-4202-aacd-3523325ee29f.png)
-![197535314-e7f6cf5d-44ba-4a0c-ae36-f1961ee4a87e](https://user-images.githubusercontent.com/112961430/197783913-c913b9c7-a189-4aef-ac80-d807a8cf39b1.png)
-Image credit goes to [Grant G](https://github.com/ggastin30/Intermediate_CAD#description-and-images)
+<img src="https://user-images.githubusercontent.com/112961430/197799301-0597b000-e3de-48c5-bb6d-3d39dad95c49.PNG" style="width:400px;"><figcaption>ring</figcaption>
+<img src="https://user-images.githubusercontent.com/112961430/197799289-a704148b-5760-4947-948e-acdba59bc926.PNG" style="width:400px;"><figcaption>spinner</figcaption>
+
 #### Reflection
 This assignment was pretty fun to make, because both me and my partner had to work together to create a pull copter at the same time. Something I learned, was how to do a section view. This makes it so you can see the inside of a object.
 
 ### 4.2
 
+
 #### Pictures
-For this assignment, we were tasked to create different parts of a pull copter.
-![197535259-7f95866b-a796-4434-a3d5-1f2cebb3d292](https://user-images.githubusercontent.com/112961430/197783905-d0e52904-5f2f-4202-aacd-3523325ee29f.png)
-![197535314-e7f6cf5d-44ba-4a0c-ae36-f1961ee4a87e](https://user-images.githubusercontent.com/112961430/197783913-c913b9c7-a189-4aef-ac80-d807a8cf39b1.png)
-Image credit goes to [Grant G](https://github.com/ggastin30/Intermediate_CAD#description-and-images)
+<img src="https://user-images.githubusercontent.com/112961430/197804030-fef3ee89-adc0-4a0b-b34b-752b47658c97.PNG" style="width:400px;"><figcaption>prop</figcaption>
+<img src="https://user-images.githubusercontent.com/112961430/197801971-b531ffd6-1c83-4b90-b93c-c62ee91ff4ca.PNG" style="width:400px;"><figcaption>key</figcaption>
 #### Reflection
 This assignment was pretty fun to make, because both me and my partner had to work together to create a pull copter at the same time. Something I learned, was how to do a section view. This makes it so you can see the inside of a object.
 
 ### 4.3
 
 #### Pictures
-For this assignment, we were tasked to create different parts of a pull copter.
-![197535259-7f95866b-a796-4434-a3d5-1f2cebb3d292](https://user-images.githubusercontent.com/112961430/197783905-d0e52904-5f2f-4202-aacd-3523325ee29f.png)
-![197535314-e7f6cf5d-44ba-4a0c-ae36-f1961ee4a87e](https://user-images.githubusercontent.com/112961430/197783913-c913b9c7-a189-4aef-ac80-d807a8cf39b1.png)
-Image credit goes to [Grant G](https://github.com/ggastin30/Intermediate_CAD#description-and-images)
+<img src="https://user-images.githubusercontent.com/112961430/197803748-d1b3ebb5-9dea-49d4-9bf8-c07f6cf78ae8.PNG" alt="full assembly" style="width:600px;"><figcaption>finished version </figcaption>
+<img src="https://user-images.githubusercontent.com/112961430/197797981-b1da29be-4330-441a-b77c-0de3526dc2d3.PNG" alt="full assembly" style="width:600px;"><figcaption>section view </figcaption>
 #### Reflection
 This assignment was pretty fun to make, because both me and my partner had to work together to create a pull copter at the same time. Something I learned, was how to do a section view. This makes it so you can see the inside of a object.
 
 ### 4.4 
 
 #### Pictures
-For this assignment, we were tasked to create different parts of a pull copter.
-![197535259-7f95866b-a796-4434-a3d5-1f2cebb3d292](https://user-images.githubusercontent.com/112961430/197783905-d0e52904-5f2f-4202-aacd-3523325ee29f.png)
-![197535314-e7f6cf5d-44ba-4a0c-ae36-f1961ee4a87e](https://user-images.githubusercontent.com/112961430/197783913-c913b9c7-a189-4aef-ac80-d807a8cf39b1.png)
-Image credit goes to [Grant G](https://github.com/ggastin30/Intermediate_CAD#description-and-images)
+<img src="https://user-images.githubusercontent.com/112961430/197802921-4bffe25c-a6f2-4b1f-a0a5-0dc6aa53ed0d.PNG" alt="full assembly" style="width:600px;"><figcaption>afton's pull copter </figcaption>
+<img src="https://user-images.githubusercontent.com/112961430/197802944-de42a86d-dc86-4233-842a-3a13321805e8.PNG" alt="full assembly" style="width:600px;"><figcaption>klei's pull copter </figcaption>
+
+
 #### Reflection
 This assignment was pretty fun to make, because both me and my partner had to work together to create a pull copter at the same time. Something I learned, was how to do a section view. This makes it so you can see the inside of a object.
-
-
-### 4.5
-
-#### Pictures
-For this assignment, we were tasked to create different parts of a pull copter.
-![197535259-7f95866b-a796-4434-a3d5-1f2cebb3d292](https://user-images.githubusercontent.com/112961430/197783905-d0e52904-5f2f-4202-aacd-3523325ee29f.png)
-![197535314-e7f6cf5d-44ba-4a0c-ae36-f1961ee4a87e](https://user-images.githubusercontent.com/112961430/197783913-c913b9c7-a189-4aef-ac80-d807a8cf39b1.png)
-Image credit goes to [Grant G](https://github.com/ggastin30/Intermediate_CAD#description-and-images)
-#### Reflection
-This assignment was pretty fun to make, because both me and my partner had to work together to create a pull copter at the same time. Something I learned, was how to do a section view. This makes it so you can see the inside of a object.
-
-
 
 ## Multipart
 
