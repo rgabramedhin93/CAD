@@ -12,7 +12,9 @@
 ### Description & Pictures
 For this assignment, we were tasked to create multiple versions of a swing arm, with variables.
 First Version with measurements
-![197536730-f1dde697-ab45-453f-8359-e539bab8a236](https://user-images.githubusercontent.com/112961430/197785728-3866a90c-0ea5-4ada-969a-a962ad6d7dcb.png)
+<img src="https://user-images.githubusercontent.com/112961430/197785728-3866a90c-0ea5-4ada-969a-a962ad6d7dcb.png" alt="full assembly" style="width:400px;"><figcaption>Caption goes here</figcaption>
+
+<img src="https://user-images.githubusercontent.com/112961430/197785745-7455ed16-141f-46a7-9e4a-fd676276892c.png" alt="full assembly" style="width:400px;"><figcaption>Caption goes here</figcaption>
 ![197536749-425905c2-b695-4bd9-bb5f-dae975a2421d](https://user-images.githubusercontent.com/112961430/197785745-7455ed16-141f-46a7-9e4a-fd676276892c.png)
 Other version of swing arm 
 ![197536716-7b991a24-d698-4ca9-96fa-28ff5e71d7a7](https://user-images.githubusercontent.com/112961430/197785755-3c588a61-95e4-4a48-958f-7df3d98c5fff.png)
