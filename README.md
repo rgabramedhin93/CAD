@@ -43,10 +43,10 @@ This assignment was pretty fun to make, because both me and my partner had to wo
 
 ### Description & Pictures
 For this assignment, we were tasked to make multiple parts in one studio, and assemble them together. 
-![197540567-53378404-1ea![197540188-59d9067b-9ce1-430b-801f-7ea34a66ca0c](https://user-images.githubusercontent.com/112961430/197787099-5215fc8a-e025-4a6d-b1b9-a97bc932ca09.png)
-8-45d6-8755-3ce2dd765e38](https://user-images.githubusercontent.com/112961430/197787066-1deaff7b-733f-4c7c-a95c-45ea5ef4d4ee.png)
-![Uploading 197540188-59d9067b-9ce1-430b-801f-7ea34a66ca0c.png…]()
-![197540204-1c7c6536-a3b3-4125-b37a-a90ca2bab509](https://user-images.githubusercontent.com/112961430/197787111-7e22cae5-e6b9-42d5-a108-656ba6233b01.png)
+![197540567-53378404-1ea8-45d6-8755-3ce2dd765e38](https://user-images.githubusercontent.com/112961430/197787295-36ea633f-2e35-4a03-ae1c-c78446891062.png)
+![197540188-59d9067b-9ce1-430b-801f-7ea34a66ca0c](https://user-images.githubusercontent.com/112961430/197787307-f0b5bf99-3605-4e90-ad08-9d95450cdd40.png)
+![197540204-1c7c6536-a3b3-4125-b37a-a90ca2bab509](https://user-images.githubusercontent.com/112961430/197787314-c8989352-ac69-4bfc-b09b-cc1ac8e913d1.png)
+
 
 ### Evidence
 
