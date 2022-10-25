@@ -43,15 +43,16 @@ This assignment was pretty fun to make, because both me and my partner had to wo
 
 ### Description & Pictures
 For this assignment, we were tasked to make multiple parts in one studio, and assemble them together. 
+First Version, with section view
 ![197540567-53378404-1ea8-45d6-8755-3ce2dd765e38](https://user-images.githubusercontent.com/112961430/197787295-36ea633f-2e35-4a03-ae1c-c78446891062.png)
 ![197540188-59d9067b-9ce1-430b-801f-7ea34a66ca0c](https://user-images.githubusercontent.com/112961430/197787307-f0b5bf99-3605-4e90-ad08-9d95450cdd40.png)
+Second Version
 ![197540204-1c7c6536-a3b3-4125-b37a-a90ca2bab509](https://user-images.githubusercontent.com/112961430/197787314-c8989352-ac69-4bfc-b09b-cc1ac8e913d1.png)
-
-
+Image credit goes to [Grant G](https://github.com/ggastin30/Intermediate_CAD#description-and-images-2)
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/eddfebd33957e81494ad6e70/w/b5c37f8059365c90b533f592/e/63cd3d028e8acd8bbe92b02c
 ### Reflection
-
+This assignment was the hardest cad assignment I've done, because we could only work in one studio. This also made it hard to mate connect each part, as well as copy and transform each part. We also had to change the variables to create a new version of the parts. 
 
 
 
