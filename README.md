@@ -11,13 +11,14 @@
 
 ### Description & Pictures
 For this assignment, we were tasked to create multiple versions of a swing arm, with variables.
-### Evidence
 First Version with measurements
 ![197536730-f1dde697-ab45-453f-8359-e539bab8a236](https://user-images.githubusercontent.com/112961430/197785728-3866a90c-0ea5-4ada-969a-a962ad6d7dcb.png)
 ![197536749-425905c2-b695-4bd9-bb5f-dae975a2421d](https://user-images.githubusercontent.com/112961430/197785745-7455ed16-141f-46a7-9e4a-fd676276892c.png)
 Other version of swing arm 
 ![197536716-7b991a24-d698-4ca9-96fa-28ff5e71d7a7](https://user-images.githubusercontent.com/112961430/197785755-3c588a61-95e4-4a48-958f-7df3d98c5fff.png)
 Image credit goes to [Grant G](https://github.com/ggastin30/Intermediate_CAD#description-and-images-1)
+### Evidence
+https://cvilleschools.onshape.com/documents/f62d99c51094b3143754b05b/w/adffdceb2e25c6156cde4845/e/868d073b55957c5f9acf6f92
 ### Reflection
 This assignment was a kind of hard, because we had to fillet a lot of sides of the swing arm. We also had to figure out how much to extrude the arm, and how to change the variables between swing arm versions. 
 
@@ -41,6 +42,11 @@ This assignment was pretty fun to make, because both me and my partner had to wo
 ## Multipart
 
 ### Description & Pictures
+For this assignment, we were tasked to make multiple parts in one studio, and assemble them together. 
+![197540567-53378404-1ea![197540188-59d9067b-9ce1-430b-801f-7ea34a66ca0c](https://user-images.githubusercontent.com/112961430/197787099-5215fc8a-e025-4a6d-b1b9-a97bc932ca09.png)
+8-45d6-8755-3ce2dd765e38](https://user-images.githubusercontent.com/112961430/197787066-1deaff7b-733f-4c7c-a95c-45ea5ef4d4ee.png)
+![Uploading 197540188-59d9067b-9ce1-430b-801f-7ea34a66ca0c.png…]()
+![197540204-1c7c6536-a3b3-4125-b37a-a90ca2bab509](https://user-images.githubusercontent.com/112961430/197787111-7e22cae5-e6b9-42d5-a108-656ba6233b01.png)
 
 ### Evidence
 
