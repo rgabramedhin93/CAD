@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [Swing Arm](#Swing Arm)
-* [Pull_Copter](#Pull Copter)
+* [Swing Arm](#Swing_Arm)
+* [Pull_Copter](#PullCopter)
 * [Multipart](#Multipart)
 ---
 
