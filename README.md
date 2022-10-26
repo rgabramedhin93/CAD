@@ -20,9 +20,9 @@ For this assignment, we had to make a swing arm.
 
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/f62d99c51094b3143754b05b/w/adffdceb2e25c6156cde4845/e/868d073b55957c5f9acf6f92
+https://cvilleschools.onshape.com/documents/19a591b7aa6acfdbcda2aac5/w/025c8492682d87da7ca14363/e/ddbf512061c05edb730cc8e6?renderMode=0&uiState=635977dc38fff70f91dd1b09
 ### Reflection
-This assignment was a kind of hard, because we had to fillet a lot of sides of the swing arm. We also had to figure out how much to extrude the arm, and how to change the variables between swing arm versions. 
+This assignment was kind of tough. We had to do 2 types of the swing arm. The sketch was kind of hard for me too. There were a lot of fillets that we had to add and also figuring out the mass of the swing arm. Overall, tough but I learned something new. 
 
 
 
