@@ -12,9 +12,9 @@
 ### Description
 For this assignment, we had to make a swing arm. 
 ### Images
-![Swing arm 1](image.jpg)
-![Swing arm 2](image.jpg)
-![Sketch for swing arm](image.jpg)
+![Swing arm 1](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Swing%20arm%201.png)
+![Swing arm 2](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Swing%20arm%202.png)
+![Sketch for swing arm](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Sketch%20of%20swing%20arm.png)
 
 
 
