@@ -9,7 +9,7 @@
 
 ## Swing_Arm
 
-### Description & Pictures
+### Description
 For this assignment, we were tasked to create multiple versions of a swing arm, with variables.
 <img src="https://user-images.githubusercontent.com/112961430/197785728-3866a90c-0ea5-4ada-969a-a962ad6d7dcb.png" alt="full assembly" style="width:400px;"><figcaption>first version </figcaption>
 <img src="https://user-images.githubusercontent.com/112961430/197785745-7455ed16-141f-46a7-9e4a-fd676276892c.png" alt="full assembly" style="width:400px;"><figcaption>measurements of first version </figcaption>
