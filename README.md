@@ -10,12 +10,15 @@
 ## Swing_Arm
 
 ### Description
-For this assignment, we were tasked to create multiple versions of a swing arm, with variables.
-<img src="https://user-images.githubusercontent.com/112961430/197785728-3866a90c-0ea5-4ada-969a-a962ad6d7dcb.png" alt="full assembly" style="width:400px;"><figcaption>first version </figcaption>
-<img src="https://user-images.githubusercontent.com/112961430/197785745-7455ed16-141f-46a7-9e4a-fd676276892c.png" alt="full assembly" style="width:400px;"><figcaption>measurements of first version </figcaption>
-<img src="https://user-images.githubusercontent.com/112961430/197785755-3c588a61-95e4-4a48-958f-7df3d98c5fff.png" alt="full assembly" style="width:400px;"><figcaption>second version </figcaption>
+For this assignment, we had to make a swing arm. 
+### Images
+![Swing arm 1](image.jpg)
+![Swing arm 2](image.jpg)
+![Sketch for swing arm](image.jpg)
 
-Image credit goes to [Grant G](https://github.com/ggastin30/Intermediate_CAD#description-and-images-1)
+
+
+
 ### Evidence
 https://cvilleschools.onshape.com/documents/f62d99c51094b3143754b05b/w/adffdceb2e25c6156cde4845/e/868d073b55957c5f9acf6f92
 ### Reflection
