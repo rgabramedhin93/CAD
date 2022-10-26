@@ -2,12 +2,12 @@
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [Swing Arm](#Swing_Arm)
-* [Pull_Copter](#Pull_Copter)
+* [Swing Arm](#Swing Arm)
+* [Pull_Copter](#Pull Copter)
 * [Multipart](#Multipart)
 ---
 
-## Swing_Arm
+# Swing_Arm
 
 ### Description
 For this assignment, we had to make a swing arm. 
@@ -26,48 +26,44 @@ This assignment was kind of tough. We had to do 2 types of the swing arm. The sk
 
 
 
-## Pull_Copter
+# Pull_Copter
 
-#### Description
-For this assignment, we were tasked to create different parts of a pull copter.
+### Description
+For this assignment, we had a partner to work on different parts for the Pull Copter. 
 
-#### Evidence
+### Evidence
 https://cvilleschools.onshape.com/documents/23a0e7b8260251b4180fe0e5/w/4270abba53edea8501bab3ff/e/6fdff1d1b201254cdf5197c6
 
-### 4.1
 
-#### Pictures
+### Images 4.1
 <img src="https://user-images.githubusercontent.com/112961430/197799301-0597b000-e3de-48c5-bb6d-3d39dad95c49.PNG" style="width:400px;"><figcaption>ring</figcaption>
 <img src="https://user-images.githubusercontent.com/112961430/197799289-a704148b-5760-4947-948e-acdba59bc926.PNG" style="width:400px;"><figcaption>spinner</figcaption>
 
-#### Reflection
+### Reflection
 This part of the assignment, we were supposed to make a ring and spinner. 
 
-### 4.2
-
-
-#### Pictures
+### Images 4.2
 <img src="https://user-images.githubusercontent.com/112961430/197804030-fef3ee89-adc0-4a0b-b34b-752b47658c97.PNG" style="width:400px;"><figcaption>prop</figcaption>
 <img src="https://user-images.githubusercontent.com/112961430/197801971-b531ffd6-1c83-4b90-b93c-c62ee91ff4ca.PNG" style="width:400px;"><figcaption>key</figcaption>
-#### Reflection
-This part of the assignment, we were supposed to make a key and prop.
-### 4.3
 
-#### Pictures
+### Reflection
+This part of the assignment, we were supposed to make a key and prop.
+
+### Images 4.3
 <img src="https://user-images.githubusercontent.com/112961430/197803748-d1b3ebb5-9dea-49d4-9bf8-c07f6cf78ae8.PNG" alt="full assembly" style="width:600px;"><figcaption>finished version </figcaption>
 <img src="https://user-images.githubusercontent.com/112961430/197797981-b1da29be-4330-441a-b77c-0de3526dc2d3.PNG" alt="full assembly" style="width:600px;"><figcaption>section view </figcaption>
-#### Reflection
+
+### Reflection
 This part of the assignment, we were supposed to assemble the parts together.
 
-### 4.4 
-
-#### Pictures
+### Images 4.4 
 <img src="https://user-images.githubusercontent.com/112961430/197802921-4bffe25c-a6f2-4b1f-a0a5-0dc6aa53ed0d.PNG" alt="full assembly" style="width:600px;"><figcaption>afton's pull copter </figcaption>
 <img src="https://user-images.githubusercontent.com/112961430/197802944-de42a86d-dc86-4233-842a-3a13321805e8.PNG" alt="full assembly" style="width:600px;"><figcaption>klei's pull copter </figcaption>
 
 
-#### Reflection
+### Reflection
 This part of the assignment, we were supposed to create different versions of the pull copter.
+
 ## Multipart
 
 ### Description & Pictures
