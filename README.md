@@ -39,14 +39,13 @@ https://cvilleschools.onshape.com/documents/23a0e7b8260251b4180fe0e5/w/4270abba5
 ![Spinner](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%209.52.58%20PM.png)
 
 ### Reflection
-This part of the assignment, I was supposed to make the spinner. It was pretty easy because I followed along with the instructions. 
+This part of the assignment, I was supposed to make the spinner. It was pretty easy because I followed along with the instructions. Overall, this was pretty cool and it was kind of fun to make. 
 
 ### Images 4.2
-<img src="https://user-images.githubusercontent.com/112961430/197804030-fef3ee89-adc0-4a0b-b34b-752b47658c97.PNG" style="width:400px;"><figcaption>prop</figcaption>
-<img src="https://user-images.githubusercontent.com/112961430/197801971-b531ffd6-1c83-4b90-b93c-c62ee91ff4ca.PNG" style="width:400px;"><figcaption>key</figcaption>
+![Spinner](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%209.52.58%20PM.png)
 
 ### Reflection
-This part of the assignment, we were supposed to make a key and prop.
+For this part, I had to create the prop. It was pretty cool to make this but it was kind of challenging. Overall I got through it and I enjoyed it. 
 
 ### Images 4.3
 <img src="https://user-images.githubusercontent.com/112961430/197803748-d1b3ebb5-9dea-49d4-9bf8-c07f6cf78ae8.PNG" alt="full assembly" style="width:600px;"><figcaption>finished version </figcaption>
