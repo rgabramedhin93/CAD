@@ -56,12 +56,10 @@ For this part of the assignment, we had to actually assemble the parts together.
 ## Multipart
 
 ### Description & Pictures
-For this assignment, we were tasked to make multiple parts in one studio, and assemble them together. 
-<img src="https://user-images.githubusercontent.com/112961430/197787295-36ea633f-2e35-4a03-ae1c-c78446891062.png" alt="full assembly" style="width:400px;"><figcaption>first version </figcaption>
-<img src="https://user-images.githubusercontent.com/112961430/197787307-f0b5bf99-3605-4e90-ad08-9d95450cdd40.png" alt="full assembly" style="width:400px;"><figcaption>section view </figcaption>
-<img src="https://user-images.githubusercontent.com/112961430/197787314-c8989352-ac69-4bfc-b09b-cc1ac8e913d1.png" alt="full assembly" style="width:400px;"><figcaption>second version </figcaption>
+For this assignment, we had to make multiple parts and assemble them according to the drawing we were given.  
+![Assembly](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%2010.05.31%20PM.png)
+![Assembly](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%2010.05.31%20PM.png)
 
-Image credit goes to [Grant G](https://github.com/ggastin30/Intermediate_CAD#description-and-images-2)
 ### Evidence
 https://cvilleschools.onshape.com/documents/eddfebd33957e81494ad6e70/w/b5c37f8059365c90b533f592/e/63cd3d028e8acd8bbe92b02c
 ### Reflection
