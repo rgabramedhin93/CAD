@@ -1,5 +1,5 @@
 # CAD
-#### repository credit kstanfo00/CAD
+#### repository credit https://github.com/kstanfo00/CAD
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Swing Arm](#Swing_Arm)
@@ -29,18 +29,17 @@ This assignment was kind of tough. We had to do 2 types of the swing arm. The sk
 # Pull_Copter
 
 ### Description
-For this assignment, we had a partner to work on different parts for the Pull Copter. 
+For this assignment, we had a partner to work on different parts for the Pull Copter. I had Part B
 
 ### Evidence
 https://cvilleschools.onshape.com/documents/23a0e7b8260251b4180fe0e5/w/4270abba53edea8501bab3ff/e/6fdff1d1b201254cdf5197c6
 
 
 ### Images 4.1
-<img src="https://user-images.githubusercontent.com/112961430/197799301-0597b000-e3de-48c5-bb6d-3d39dad95c49.PNG" style="width:400px;"><figcaption>ring</figcaption>
-<img src="https://user-images.githubusercontent.com/112961430/197799289-a704148b-5760-4947-948e-acdba59bc926.PNG" style="width:400px;"><figcaption>spinner</figcaption>
+![Spinner]()
 
 ### Reflection
-This part of the assignment, we were supposed to make a ring and spinner. 
+This part of the assignment, I was supposed to make the spinner. It was pretty easy because I followed along with the instructions. 
 
 ### Images 4.2
 <img src="https://user-images.githubusercontent.com/112961430/197804030-fef3ee89-adc0-4a0b-b34b-752b47658c97.PNG" style="width:400px;"><figcaption>prop</figcaption>
