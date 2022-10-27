@@ -42,7 +42,7 @@ https://cvilleschools.onshape.com/documents/23a0e7b8260251b4180fe0e5/w/4270abba5
 This part of the assignment, I was supposed to make the spinner. It was pretty easy because I followed along with the instructions. Overall, this was pretty cool and it was kind of fun to make. 
 
 ### Images 4.2
-![Spinner](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%209.52.58%20PM.png)
+![Prop](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%209.59.05%20PM.png)
 
 ### Reflection
 For this part, I had to create the prop. It was pretty cool to make this but it was kind of challenging. Overall I got through it and I enjoyed it. 
