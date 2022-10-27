@@ -53,14 +53,6 @@ For this part, I had to create the prop. It was pretty cool to make this but it 
 ### Reflection
 For this part of the assignment, we had to actually assemble the parts together. This part of the assignment was easy because it was when both partners work together to get it built. I got part B into the assembly and my partner got part A in. 
 
-### Images 4.4 
-<img src="https://user-images.githubusercontent.com/112961430/197802921-4bffe25c-a6f2-4b1f-a0a5-0dc6aa53ed0d.PNG" alt="full assembly" style="width:600px;"><figcaption>afton's pull copter </figcaption>
-<img src="https://user-images.githubusercontent.com/112961430/197802944-de42a86d-dc86-4233-842a-3a13321805e8.PNG" alt="full assembly" style="width:600px;"><figcaption>klei's pull copter </figcaption>
-
-
-### Reflection
-This part of the assignment, we were supposed to create different versions of the pull copter.
-
 ## Multipart
 
 ### Description & Pictures
