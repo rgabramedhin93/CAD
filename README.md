@@ -36,7 +36,7 @@ https://cvilleschools.onshape.com/documents/23a0e7b8260251b4180fe0e5/w/4270abba5
 
 
 ### Images 4.1
-![Spinner]()
+![Spinner](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%209.52.58%20PM.png)
 
 ### Reflection
 This part of the assignment, I was supposed to make the spinner. It was pretty easy because I followed along with the instructions. 
