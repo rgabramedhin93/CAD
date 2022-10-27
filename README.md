@@ -48,10 +48,10 @@ This part of the assignment, I was supposed to make the spinner. It was pretty e
 For this part, I had to create the prop. It was pretty cool to make this but it was kind of challenging. Overall I got through it and I enjoyed it. 
 
 ### Images 4.3
-![Assembly](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%209.59.05%20PM.png)
+![Assembly](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%2010.05.31%20PM.png)
 
 ### Reflection
-For this part of the assignment, we had to actually assemble the parts together. 
+For this part of the assignment, we had to actually assemble the parts together. This part of the assignment was easy because it was when both partners work together to get it built. I got part B into the assembly and my partner got part A in. 
 
 ### Images 4.4 
 <img src="https://user-images.githubusercontent.com/112961430/197802921-4bffe25c-a6f2-4b1f-a0a5-0dc6aa53ed0d.PNG" alt="full assembly" style="width:600px;"><figcaption>afton's pull copter </figcaption>
