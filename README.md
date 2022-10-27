@@ -57,13 +57,14 @@ For this part of the assignment, we had to actually assemble the parts together.
 
 ### Description & Pictures
 For this assignment, we had to make multiple parts and assemble them according to the drawing we were given.  
-![Assembly](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%2010.05.31%20PM.png)
-![Assembly](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%2010.05.31%20PM.png)
+![Finished Product](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%2010.16.24%20PM.png)
+![Section View](https://raw.githubusercontent.com/rgabramedhin93/CAD/master/Screenshot%202022-10-26%2010.16.12%20PM.png)
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/eddfebd33957e81494ad6e70/w/b5c37f8059365c90b533f592/e/63cd3d028e8acd8bbe92b02c
+https://cvilleschools.onshape.com/documents/073f18d1a038ac51609cc256/w/24eadda6c652e1adbeb51226/e/0d4362c0c7bb72db35b22cb0?renderMode=0&uiState=6359ea829051400541be53bc
+
 ### Reflection
-This assignment was the hardest cad assignment I've done, because we could only work in one studio. This also made it hard to mate connect each part, as well as copy and transform each part. We also had to change the variables to create a new version of the parts. 
+Overall, this assignment was definitely the hardest assignment I've done. Just the fact that your following the drawings given were kind of hard to follow. They look confusing in some cases. There was math involved and some things you had to do that was kind of hard. The finished product looks cool and I'm glad I did this because now I can actually make parts using drawings better. 
 
 
 
